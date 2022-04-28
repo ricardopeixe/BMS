@@ -6,3 +6,5 @@ sem a interferência de meios externos. Existe a possibilidade de continuar a
 desenvolver esta BMS, de um modo a trocar de uma operação local, para um sistema acessível via algum
 protocolo de comunicação sem fios, o que acrescenta muitas vantagens em termos de monitorização e extração
 de dados. Esta possibilidade transforma-se assim num upgrade para trabalho futuro.
+
+![](pcb_cad_2)
