@@ -2,6 +2,7 @@
 Battery Management System
 
 
+# Contexto
 A BMS desenvolvida terá a exclusiva tarefa de realizar o equilíbrio da bateria implementada,
 através de um sistema puramente elétrico. Não existe forma de monitorizar o estado das células, nem gerir
 o seu equilíbrio através de firmware, visto o objetivo desta BMS é realizar apenas um carregamento seguro
@@ -10,7 +11,7 @@ desenvolver esta BMS, de um modo a trocar de uma operação local, para um siste
 protocolo de comunicação sem fios, o que acrescenta muitas vantagens em termos de monitorização e extração
 de dados. Esta possibilidade transforma-se assim num upgrade para trabalho futuro.
 
-
+# Desenvolvimento
 A BMS projetada, inicia-se com um circuito que regula, tanto a tensão, como a corrente elétrica a que
 se expõe a bateria. Estas características são bastante importantes, pois por um lado garante-se que existe
 controlo sobre a corrente máxima a que se submete as células, uma vez que ao não existir este controlo, não
